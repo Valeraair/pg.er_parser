@@ -2,11 +2,11 @@
  programm for parsing candidates bio on pg.er.ru
 
  Содержание алгоритма:
- I. LinksParser.py 
- II. Grabber.py
+ I.   LinksParser.py 
+ II.  Grabber.py
  III. output.txt
- IV. candidates_links.txt
- V. output_bio.txt
+ IV.  candidates_links.txt
+ V.   output_bio.txt
 
  
 В связи с пожеланиями заказчика программа выполнена в двух частях, о чём подробнее напишу ниже:
